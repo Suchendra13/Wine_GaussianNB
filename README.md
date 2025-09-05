@@ -29,6 +29,7 @@
  Accuracy of *GaussianNB*: **0.9722**
  
 *Classification Report* of `GaussianNB` :
+
                precision    recall  f1-score   support
 
            0       0.92      1.00      0.96        12
